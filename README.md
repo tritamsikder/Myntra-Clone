@@ -1,2 +1,2 @@
 # html_test
-this is a test project
+This is a myntra clone
